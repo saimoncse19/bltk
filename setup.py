@@ -22,7 +22,7 @@ setup(
   keywords=['pos-tagger', 'pos tagger', 'phrase chunker', 'phrase-chunker', 'stemmer',
             'bengali', 'natural language processing', 'Machine learning', 'NLP'],
   install_requires=[
-      'sklearn >=0.0',
+      'scikit-learn >=0.0',
       'six >=1.13.0',
       'scipy >=1.4.1',
       'scikit-learn >=0.21.3',
